@@ -13,8 +13,8 @@
 ---
 
 <div align="center">  
-  <a href="https://github.com/ArugaZ">
-    <img title="ArugaZ" src="https://img.shields.io/badge/AUTHOR-ARUGAZ-orange.svg?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/Zurr-chan">
+    <img title="ZurrDev" src="https://img.shields.io/badge/AUTHOR-ZurrDev-orange.svg?style=for-the-badge&logo=github"></a>
 </div>
 <div align="center">
   <a href="https://www.codefactor.io/repository/github/arugaz/whatsapp-bot/overview/master">
