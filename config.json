@@ -1,7 +1,7 @@
 {
   "timeZone": "Asia/Jakarta",
   "language": "en",
-  "ownerNumber": ["6285163651710", "558188263143", "6281311850715"],
+  "ownerNumber": ["6281211037493", "6281211037493", "6281211037493"],
   "readStatus": false,
   "readMessage": false,
   "antiCall": {
@@ -11,7 +11,7 @@
   },
   "prefix": "!#.",
   "name": "𝙷ɪɢᴀꜱʜɪʏᴀᴍᴀ 𝙺ᴏʙᴇɴɪ",
-  "footer": "arugaz/whatsapp-bot",
+  "footer": "ZurrDev/whatsapp-bot",
   "self": true,
   "user": {
     "basic": {
